@@ -1,28 +1,29 @@
-# 群公告（置顶用）
+# Community announcement (pinned message)
 
-## 本群禁止一切广告
+## All advertising is prohibited in this group
 
-以下行为一律按广告处理，不看动机、不看是否"顺便"：
+The following activities are considered advertising, regardless of intent or whether they are incidental:
 
-- 发其他群、频道、公众号、网站、工具的链接或二维码
-- 卖号、卖卡、代开、代付、接单、报价、"私聊我"
-- 推广任何服务：机场、代理、接码、指纹浏览器、虚拟卡、代充
-- 私加群友兜售东西，或群内"求带""报价"式的变相交易
-- 拉人进别的群的邀请链接、裂变海报、助力、砍价、投票
+- Posting links or QR codes for other groups, channels, public accounts, websites, or tools.
+- Selling accounts or payment cards, activating subscriptions or making payments on behalf of others, taking orders, quoting prices, or asking people to contact you privately.
+- Promoting any services, including VPN or proxy providers, SMS verification services, fingerprint browsers, virtual cards, or third-party top-up services.
+- Privately contacting group members to sell products or services, or disguising transactions as requests for help or price quotes.
+- Posting invitations to other groups, referral posters, requests for promotional assistance, group-buying campaigns, or voting requests.
 
-## 处理方式
+## Enforcement
 
-- 第一次：警告 + 撤回消息
-- 第二次：直接移出，不解释
-- 发诈骗、钓鱼、收款码的：不移出，直接举报
+- First violation: a warning and removal of the message.
+- Second violation: immediate removal from the group without explanation.
+- Scams, phishing, or payment collection QR codes: report the offending account directly rather than simply removing it from the group.
 
-## 举报
+## Reporting
 
-看到广告 @管理员，或截图私发。别在群里对线，越吵越乱。
+If you see advertising, tag an administrator or send them a screenshot privately. Avoid arguing in the group, as this only creates further disruption.
 
-## 这里只聊技术
+## Technical discussion only
 
-配置问题、报错、offer 怎么看、脚本怎么跑——随便问。
-"能不能帮我开一个""多少钱"——这类不聊，问了也不回。
+Technical questions about configuration, errors, offers, and scripts are welcome.
 
-进群先看置顶，留在群里就视为同意以上。
+Requests for someone to activate a subscription on your behalf or questions about the price of such a service are not permitted and will not receive a response.
+
+Read this pinned announcement when joining. Remaining in the group constitutes acceptance of these rules.
